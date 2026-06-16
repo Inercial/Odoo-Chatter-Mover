@@ -1,7 +1,7 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 4,
   "name": "Odoo Chatter Mover (Ultra Persistent)",
-  "version": "4.0",
+  "version": "4.1",
   "description": "Mueve el chatter de Odoo abajo de forma agresiva y persistente.",
   "permissions": [],
   "content_scripts": [
